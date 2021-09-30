@@ -79,11 +79,13 @@ body, html{
 .letterbox {
   width: 90%;
   max-width: 1170px;
-  min-height: 230px;
+  min-height: 200px;
   margin: auto;
+  margin-bottom: 1em;
   color: white; 
   background-image: linear-gradient(to right , rgb(2, 0, 0), rgba(53, 53, 53, 0.055));
   font-family: CenturyGothic, 'Times New Roman', Times, serif;
+  overflow: auto;
 }
 .letterbox > p {
   font-size: 1.5em;
