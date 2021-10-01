@@ -1,15 +1,9 @@
 # General Info
 The github link we are using is https://github.com/Hydr0D4P/Satans-Resturant
 
-## Github Commands 
-To create a new repository locally: git init
-To add files to staging area: git add .  OR   git add ~filename~
-To check status of staging area: git status
-To commit new changes: git commit -m "commit message"
-To create a new branch: git checkout -b ~branch name~
-To switch between branches: git checkout ~branch name~
-To merge branches together: git merge ~branch name~
-To add a remote repository: git remote add ~remote name~ ~https://yourremoteurl~
-To pull changes from a remote repository: git pull ~remote name~ ~branch name~
-To push changes to a remote repository: git push ~remote n
-cmd
+## Project Setup
+The project is setup pretty simply. We have a a couple of folders. Each folder represents a single html page. We wanted to add more to them but we didnt
+The images page has images
+The styles.css contains all the general styling for the page.
+The Mainpage.html is the splashpage and gives access to every other page
+There is a header on the top of each page to navigate.
