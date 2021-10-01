@@ -154,3 +154,7 @@ body, html{
 button .hover { display: none; }
 button:hover .nothover { display: none; }
 button:hover .hover { display: inline; }
+
+li > a {
+  color: rgb(201, 30, 0);
+}
